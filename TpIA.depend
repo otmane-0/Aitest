@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1459363025 source:c:\users\w\videos\tpia (1)\arbre.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"arbre.h"
+	"liste.h"
+	<time.h>
+
+1459332648 c:\users\w\videos\tpia (1)\arbre.h
+
+1459292206 c:\users\w\videos\tpia (1)\liste.h
+
+1463647311 source:c:\users\w\videos\tpia (1)\graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+	"liste.h"
+	<time.h>
+	<math.h>
+
+1463652139 c:\users\w\videos\tpia (1)\graphemat.h
+	<limits.h>
+
+1462458922 source:c:\users\w\videos\tpia (1)\liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1459292224 source:c:\users\w\videos\tpia (1)\liste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1463057007 source:c:\users\w\videos\tpia (1)\maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"Arbre.h"
+	"taquin.h"
+	"liregraphe.h"
+
+1459372244 c:\users\w\videos\tpia (1)\taquin.h
+
+1462458993 c:\users\w\videos\tpia (1)\liregraphe.h
+
+1459372244 source:c:\users\w\videos\tpia (1)\taquin.cpp
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	"taquin.h"
+
